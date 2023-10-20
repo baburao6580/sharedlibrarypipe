@@ -1,3 +1,3 @@
 def call() {
-  sh ' this is from shared library2 '
+  sh 'this is from shared library2'
 }
