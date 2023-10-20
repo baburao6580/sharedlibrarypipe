@@ -1,2 +1,3 @@
 def call() {
-  sh '
+  sh ' thisis from shared library '
+}
